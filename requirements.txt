@@ -1,0 +1,6 @@
+groq
+google-generativeai
+band-sdk
+requests
+flask
+python-dotenv
