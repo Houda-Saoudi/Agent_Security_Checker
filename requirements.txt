@@ -1,4 +1,4 @@
-groq
+groq API
 google-generativeai
 band-sdk
 requests

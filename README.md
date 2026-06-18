@@ -94,7 +94,7 @@
 | 70-89 | ⭐⭐⭐⭐ **APPROVED** | Minor hardening recommended |
 | 50-69 | ⭐⭐⭐ **CONDITIONAL** | Significant issues must be fixed |
 | 30-49 | ⭐⭐ **NEEDS IMPROVEMENT** | Multiple critical vulnerabilities |
-| 0-29 | ⭐ **NOT CERTIFIED** | Do not deploy |
+| 0-29 | ⭐ **NOT CERTIFIED** | Do not deploy! |
 
 ---
 

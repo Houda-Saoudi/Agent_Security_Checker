@@ -600,7 +600,7 @@ async def main():
     load_dotenv()
 
     print("=" * 70)
-    print("  📋 AGENT SECURITY CHECKER — Report Agent (AUTO-TRIGGER FIXED)")
+    print("  📋 AGENT SECURITY CHECKER —- Report Agent (AUTO-TRIGGER FIXED)")
     print(f"  Output file : {OUTPUT_FILE}")
     print("=" * 70)
 
